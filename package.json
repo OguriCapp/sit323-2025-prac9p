@@ -1,0 +1,11 @@
+{
+  "name": "calculator-app",
+  "version": "1.0.0",
+  "description": "Calculator application with MongoDB integration",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^4.1.0",
+    "dotenv": "^16.0.0"
+  }
+}
